@@ -11,9 +11,9 @@
 
 📓 I’m currently completing Bachelor's Degree in Software Engineering 😭
 
-📧 am4403158@gmail.com
+✉ am4403158@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://portfolio-website-8swl.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/abdul-mateen-b46907253/
 
