@@ -62,7 +62,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdul-mateen-b46907253/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdul-mateen-b46907253/"><img src="https://img.shields.io/badge/-Abdul Mateen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:am4403158@gmail.com"><img src="https://img.shields.io/badge/-am4403158@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/am4403158/"><img src="https://img.shields.io/badge/-@am4403158-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
